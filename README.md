@@ -1,4 +1,4 @@
-- 👋 Hi, I’m yervodag call me octie
+- 👋 Hi, I’m yervoda
 - 👀 Have keen interest in genetic. 
 - 🌱 Currently pursing bioinformatics
 - 💞️ learning new skills 
